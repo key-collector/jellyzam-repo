@@ -2,10 +2,10 @@
     "guid":  "12345678-1234-5678-9012-123456789012",
     "name":  "Jellyzam",
     "description":  "A Jellyfin plugin that uses Shazam to identify music in your library",
-    "overview":  "Automatically identify and update metadata for music files using Shazam\u0027s audio fingerprinting technology. Supports batch processing, configurable confidence thresholds, and automatic metadata updates.",
+    "overview":  "Automatically identify and update metadata for music files using Shazams audio fingerprinting technology. Supports batch processing, configurable confidence thresholds, and automatic metadata updates.",
     "owner":  "Jellyzam Team",
     "category":  "Metadata",
-    "imageUrl":  "https://raw.githubusercontent.com/Light1Knight/jellyzam-plugin/main/jellyzam-icon.png",
+    "imageUrl":  "",
     "versions":  [
                      {
                          "version":  "1.0.0.0",
